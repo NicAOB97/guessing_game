@@ -6,19 +6,8 @@ Written in Python.<br>
 
 ![Numbers](img/Numbers.png?raw=true "Numbers") 
 
-Using Python I created this project with a standard structure including: functions, classes and a main.py script.  <br>
-<em>Utilizando Python, hice este proyecto intentando adherir a la estructura estandard incluyendo funciones, clases y un main.py. </em>
-
-Written all of this after having programmed with python for only a week. <br>
-<em>Desarrollado tras una mera semana aprendiendo python.</em>
-
-![Classic Childhood Game](img/battleship_im.jpeg?raw=true "Battleship, Classic Game") 
-
-<h2>Pre-requisites :heavy_check_mark: </h2>
-
-```
-pip install -r requirements.txt 
-```
+Run the code to see if I can guess your number... Think of a number between 0 and 100. Let me know if my guess is 'too high', 'high', 'too low' or 'low'. I can assure you I'll guess it in no time.<br>
+<em>Utiliza este codigo para retarme! Piensa en un número entre 0 y 100 y te aseguro que en poco tiempo lo adivinare! Puedes ir guiandome y diciendome si voy por buen camino o no...  </em>
 
 <h2>AUTHOR :black_nib: </h2>
 - Nic Orchard @NicAOB97
